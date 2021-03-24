@@ -1,5 +1,5 @@
 PODS:
-  - LGMacroAndCategoryModule (0.1.0)
+  - LGMacroAndCategoryModule (1.0.0)
 
 DEPENDENCIES:
   - LGMacroAndCategoryModule (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LGMacroAndCategoryModule: 9e8658af79838012fadd0d49bd51410e66982d3d
+  LGMacroAndCategoryModule: 5f7e2cc2f4110950039c69acba36a01cc808d630
 
 PODFILE CHECKSUM: 88b976c96be359e7bff65ca9cef0a21585a99dc9
 
