@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		006D2D4CCFB3B098B4A7F3F7 /* LGMacroAndCategoryModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LGMacroAndCategoryModule.podspec; path = ../LGMacroAndCategoryModule.podspec; sourceTree = "<group>"; };
+		006D2D4CCFB3B098B4A7F3F7 /* LGMacroAndCategoryModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LGMacroAndCategoryModule.podspec; path = ../LGMacroAndCategoryModule.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2EBEF7B3776A4B7E846A01D7 /* Pods-LGMacroAndCategoryModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGMacroAndCategoryModule_Tests.release.xcconfig"; path = "Target Support Files/Pods-LGMacroAndCategoryModule_Tests/Pods-LGMacroAndCategoryModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4075531C293CC4BB7E0EA251 /* Pods-LGMacroAndCategoryModule_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGMacroAndCategoryModule_Example.debug.xcconfig"; path = "Target Support Files/Pods-LGMacroAndCategoryModule_Example/Pods-LGMacroAndCategoryModule_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4C8F7655BA2092A4B45CA7BF /* Pods_LGMacroAndCategoryModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LGMacroAndCategoryModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,9 +62,9 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		80A19D1EDCFFE966CC514F2F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		80A19D1EDCFFE966CC514F2F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9470E2D030F4B55952EAE877 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9470E2D030F4B55952EAE877 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		ACD5BBA5CD3A5338A30195E1 /* Pods_LGMacroAndCategoryModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LGMacroAndCategoryModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2601915FC674415D6305B1E /* Pods-LGMacroAndCategoryModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGMacroAndCategoryModule_Example.release.xcconfig"; path = "Target Support Files/Pods-LGMacroAndCategoryModule_Example/Pods-LGMacroAndCategoryModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,7 +103,6 @@
 				5EEE64E7324D57D5501CEAAA /* Pods-LGMacroAndCategoryModule_Tests.debug.xcconfig */,
 				2EBEF7B3776A4B7E846A01D7 /* Pods-LGMacroAndCategoryModule_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

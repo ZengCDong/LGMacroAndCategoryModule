@@ -1,0 +1,16 @@
+PODS:
+  - LGMacroAndCategoryModule (0.1.0)
+
+DEPENDENCIES:
+  - LGMacroAndCategoryModule (from `../`)
+
+EXTERNAL SOURCES:
+  LGMacroAndCategoryModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LGMacroAndCategoryModule: 9e8658af79838012fadd0d49bd51410e66982d3d
+
+PODFILE CHECKSUM: 88b976c96be359e7bff65ca9cef0a21585a99dc9
+
+COCOAPODS: 1.9.1
