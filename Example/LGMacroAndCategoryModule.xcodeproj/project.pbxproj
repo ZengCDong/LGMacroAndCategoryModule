@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "983217036@qq.com";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = U7PCBYVQ27;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -494,6 +497,7 @@
 			baseConfigurationReference = 4075531C293CC4BB7E0EA251 /* Pods-LGMacroAndCategoryModule_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U7PCBYVQ27;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LGMacroAndCategoryModule/LGMacroAndCategoryModule-Prefix.pch";
 				INFOPLIST_FILE = "LGMacroAndCategoryModule/LGMacroAndCategoryModule-Info.plist";
@@ -510,6 +514,7 @@
 			baseConfigurationReference = F2601915FC674415D6305B1E /* Pods-LGMacroAndCategoryModule_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U7PCBYVQ27;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LGMacroAndCategoryModule/LGMacroAndCategoryModule-Prefix.pch";
 				INFOPLIST_FILE = "LGMacroAndCategoryModule/LGMacroAndCategoryModule-Info.plist";
