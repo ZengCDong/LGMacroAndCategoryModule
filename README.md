@@ -1,4 +1,5 @@
 # LGMacroAndCategoryModule
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/983217036@qq.com/LGMacroAndCategoryModule.svg?style=flat)](https://travis-ci.org/983217036@qq.com/LGMacroAndCategoryModule)
 [![Version](https://img.shields.io/cocoapods/v/LGMacroAndCategoryModule.svg?style=flat)](https://cocoapods.org/pods/LGMacroAndCategoryModule)
@@ -27,3 +28,6 @@ pod 'LGMacroAndCategoryModule'
 ## License
 
 LGMacroAndCategoryModule is available under the MIT license. See the LICENSE file for more info.
+=======
+宏定义、工具类
+>>>>>>> d2f2517d412ab78930b2db88d03ac1135e536285
