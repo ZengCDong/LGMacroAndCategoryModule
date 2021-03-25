@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "summary": "LGMacroAndCategoryModule is Project macro definition",
   "description": "LGMacroAndCategoryModule is a tool class module for projects that sets some macro definitions, categories, etc",
-  "homepage": "https://github.com/ZengCDong/LGMacroAndCategoryModule",
+  "homepage": "https://github.com/ZengCDong/KTMacroAndCategoryModule",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "ZengCDong": "983217036@qq.com"
   },
   "source": {
-    "git": "https://github.com/ZengCDong/LGMacroAndCategoryModule.git",
+    "git": "https://github.com/ZengCDong/KTMacroAndCategoryModule.git",
     "tag": "1.0.0"
   },
   "platforms": {
